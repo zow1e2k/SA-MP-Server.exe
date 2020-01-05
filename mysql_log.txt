@@ -1,0 +1,2 @@
+[18:14:22] [ERROR] mysql_format - invalid connection handle (id: 0)
+[18:14:22] [ERROR] mysql_tquery - invalid connection handle (id: 0)
